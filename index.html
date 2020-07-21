@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link rel="stylesheet" type="text/css" href="css\style.css">
+  </head>
+
+  <body>
+    
+    <div class="header">
+      <h2>To Do List</h2>
+      <input type="text" id="Input" placeholder="New Content">
+      <span onclick="newElement()" class="addBtn">Add</span>
+    </div>
+
+    <ul id="UL">
+      <li class="checked">Making Functionality for SMSphp</li>
+      <li>Designing frontEnd for user view </li>
+      <li class="checked">Proofread the content for blog</li>
+      <li>Design About us and Contact Us pages </li>
+      <li>Reviewing my notes</li>
+      <li>Creating a project</li>
+    </ul>
+
+    <button type="button" id="clearList" onclick="removeAll()">Clear Items</button>
+
+    <script type="text/javascript" src="js\script.js"></script>
+
+  </body>
+</html>
