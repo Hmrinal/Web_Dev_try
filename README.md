@@ -4,9 +4,10 @@ A trial based project for learning Web Programming. ToDo list is quite essential
 ## Dependencies
 
 - Python 3.6
-- RStudio
-- NumPy
-- Scikit-learn
+- HTML5
+- CSS3
+- JavaScript
+- PHP
 
 ## Install
 Any code editor can be used according to developers choice.
