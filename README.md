@@ -10,3 +10,8 @@ A trial based project for learning Web Programming. ToDo list is quite essential
 
 ## Install
 Any code editor can be used according to developers choice.
+- Visual Studio Code
+- Sublime Test editor
+- Atom
+- CodePen(online platform)
+
