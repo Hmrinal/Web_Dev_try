@@ -7,6 +7,7 @@ A trial based project for learning Web Programming. ToDo list is quite essential
 The project is a single webpage containing different list items and a text area to add custom tasks. The “Add” button lets the user add an object to the list. We have the facility to check the items from the list or remove them if we want. If we wish, we can clear all the list items with a single button. It is a very user-friendly and user-interactive project that makes the work of a user a lot easier.
 
 - The first step of our JavaScript project is adding HTML. The HTML file will contain all the elements we need to show on our page when it loads. The project also includes the location of our CSS and JavaScript files that we will create in the further sections. The following is the content of your HTML file. You can edit these elements as you like and get the result in the browser.
+- The next step is adding CSS in the webpage. To do that, create a new file in the text editor, copy the code below in the file, then save it with the name ‘toDo.css’. You can vary the file location of the file, but remember, it is standard procedure to save the CSS and JavaScript files in separate folders to avoid confusion.
 
 
 ![Output Diagram](outputScreen.png)
