@@ -8,6 +8,8 @@ The project is a single webpage containing different list items and a text area 
 
 - The first step of our JavaScript project is adding HTML. The HTML file will contain all the elements we need to show on our page when it loads. The project also includes the location of our CSS and JavaScript files that we will create in the further sections. The following is the content of your HTML file. You can edit these elements as you like and get the result in the browser.
 - The next step is adding CSS in the webpage. To do that, create a new file in the text editor, copy the code below in the file, then save it with the name ‘toDo.css’. You can vary the file location of the file, but remember, it is standard procedure to save the CSS and JavaScript files in separate folders to avoid confusion.
+- The styling of the webpage is perfect. It is time to change the page from static to dynamic. We will achieve this task with the help of JavaScript. First of all, let’s create a JavaScript file ‘toDo.js’ and save the following code in the file.
+
 
 
 ![Output Diagram](outputScreen.png)
