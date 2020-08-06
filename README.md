@@ -21,7 +21,7 @@ output of our todo list
 - HTML5
 - CSS3
 - JavaScript
-- PHP
+- PHP(Xampp)
 
 ## Install
 Any code editor can be used according to developers choice.
