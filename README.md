@@ -11,7 +11,6 @@ The project is a single webpage containing different list items and a text area 
 - The styling of the webpage is perfect. It is time to change the page from static to dynamic. We will achieve this task with the help of JavaScript. First of all, let’s create a JavaScript file ‘toDo.js’or 'script.js' and save the following code in the file.
 
 
-
 ![Output Diagram](outputScreen.png)
 
 output of our todo list
