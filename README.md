@@ -13,7 +13,7 @@ The project is a single webpage containing different list items and a text area 
 
 ![Output Diagram](outputScreen.png)
 
-output of our todo list
+#### output of our todo list
 
 ## Dependencies
 
