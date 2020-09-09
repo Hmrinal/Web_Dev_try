@@ -14,6 +14,7 @@ The project is a single webpage containing different list items and a text area 
 ![Output Diagram](outputScreen.png)
 
 #### output of our todo list
+In this tutorial, we successfully built a todo list app that allows a user to add new tasks, mark a task as completed and delete old ones.
 
 ## Dependencies
 
