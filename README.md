@@ -13,6 +13,8 @@ The project is a single webpage containing different list items and a text area 
 
 ![Output Diagram](outputScreen.png)
 
+- Output Diagram
+
 #### output of our todo list
 
 In this tutorial, we successfully built a todo list app that allows a user to add new tasks, mark a task as completed and delete old ones. This is a basic example of a todo list which can be built after understanding the concepts of HTML, CSS and JS. It would be great to keep working on it along with making some transitions.
@@ -27,6 +29,7 @@ In this tutorial, we successfully built a todo list app that allows a user to ad
 
 ## 📦 Install
 Any code editor can be used according to developers choice.
+
 - Visual Studio Code
 - Sublime Test editor
 - Atom
