@@ -28,6 +28,7 @@ In this tutorial, we successfully built a todo list app that allows a user to ad
 - PHP(Xampp)
 
 ## 📦 Install
+
 Any code editor can be used according to developers choice.
 
 - Visual Studio Code
